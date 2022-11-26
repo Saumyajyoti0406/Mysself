@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saumyajyoi
+- 👋 Hi, I’m @Saumyajyoti
 - 👀 I’m interested in Programming and learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
